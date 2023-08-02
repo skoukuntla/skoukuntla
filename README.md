@@ -1,7 +1,5 @@
 ## Hey there! 👋 I'm Sruthi
 
-I'm a Computer Science student at Purdue University with a passion for creating and coding. I'm set to graduate in May 2024!
-
 ### About Me
 
 - 🎓 Studying at Purdue University, majoring in Computer Science.
