@@ -17,5 +17,4 @@
 
 - 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sruthi-koukuntla/).
   
-Looking forward to connecting! Feel free to reach out and say hi. 🚀
-
+Looking forward to connecting!
