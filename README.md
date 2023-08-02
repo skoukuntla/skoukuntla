@@ -9,7 +9,6 @@
 
 ### What I'm Up To
 
-- 🔭 Currently exploring various programming languages and technologies.
 - 📚 Learning and growing with a focus on Java, Python, and more.
 - 🌱 Excited about the potential of machine learning in real-world applications.
 
