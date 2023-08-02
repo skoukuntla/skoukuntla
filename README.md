@@ -15,18 +15,6 @@ I'm a Computer Science student at Purdue University with a passion for creating 
 - 📚 Learning and growing with a focus on Java, Python, and more.
 - 🌱 Excited about the potential of machine learning in real-world applications.
 
-### Work Experience
-
-- 💼 Interned as a Software Engineer at Citi.
-- 🛠️ Developed scripts to streamline processes.
-- 💬 Collaborated with teams and improved chatbot functionalities.
-
-### Campus Life
-
-- 🎉 Involved with the Woman in Science Program (WISP).
-- 👥 Mentoring and supporting fellow students in their academic journey.
-- 📣 Leading a committee to publish engaging newsletters.
-
 ### Let's Connect!
 
 - 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sruthi-koukuntla/).
