@@ -4,8 +4,8 @@
 
 - 🎓 Studying at Purdue University, majoring in Computer Science.
 - 🌟 Concentrations in Software Engineering and Machine Learning.
-- 🌆 Based in Dallas, Tx.
-- ✏️ Some of my hobbies include drawing, gardening, and watching movies!
+- 🌆 Based in Dallas, TX.
+- ✏️ Some of my hobbies include Bollywood dancing, playing basketball, drawing, gardening, and watching movies!
 
 ### What I'm Up To
 
