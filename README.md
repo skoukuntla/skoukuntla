@@ -10,7 +10,7 @@
 ### What I'm Up To
 
 - 📚 Learning and growing with a focus on Java, Python, and more.
-- 🌱 Excited about the potential of machine learning in real-world applications.
+- 🌱 Excited about the potential of AI and machine learning in real-world applications.
 
 
 🌐 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sruthi-koukuntla/).
